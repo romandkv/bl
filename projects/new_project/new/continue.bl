@@ -1,0 +1,8 @@
+define nastya = Character(name="Nastya", color="#00cccc")
+
+label continue:
+    define png = Sprite(file="/files/2.png")
+    #show png
+    nastya "Zdarova, hleb jarit?"
+    roma "Davai"
+    andrey "Ya gey!"

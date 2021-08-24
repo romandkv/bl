@@ -1,0 +1,7 @@
+label start:
+    define newBack = Background(file="files/back.bmp")
+    define roma = Character(name="Roma", color="#54d6d2")
+    define andrey = Character(name="Andrey", color="#77dd77")
+    roma "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem eaque!""
+    andrey "Ya toje!"
+    jump continue

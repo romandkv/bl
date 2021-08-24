@@ -1,0 +1,5 @@
+define roma = Character(name="Roma", color="#666666")
+
+label suka:
+    roma "Привет бро я на сларке играю"
+    startBl "Привет я автор мне круто"
